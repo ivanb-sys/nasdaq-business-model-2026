@@ -1,6 +1,10 @@
 # Nasdaq Business Model & Digital Assets Strategy
 
-A mobile-friendly interactive command center for requisition R0025258. It combines initial-call preparation with primary-source analysis of Nasdaq's FY2025 and Q1 2026 segment economics, products, private markets, growth strategy, and Digital Assets architecture.
+A mobile-friendly interactive command center for requisition R0025258. It combines initial-call preparation with primary-source analysis of Nasdaq's FY2025 and Q1 2026 segment economics, named clients and deployments, products, private markets, growth strategy, and Digital Assets architecture.
+
+## Named-client evidence
+
+The client view maps confirmed clients, licensees, issuers, exchange members, data distributors, and ecosystem participants to the Nasdaq products they use and the strongest publicly disclosed scale or outcome. Nasdaq does not disclose client-level revenue, ARR, profit, margin, contract value, or a customer ranking. Its FY2025 Form 10-K states that no single customer represented 10% or more of revenue in 2025, 2024, or 2023.
 
 ## Publication boundary
 

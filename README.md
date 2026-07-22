@@ -1,10 +1,10 @@
 # Nasdaq Business Model & Digital Assets Strategy
 
-A mobile-friendly, primary-source interactive analysis of Nasdaq's FY2025 and Q1 2026 segment economics, growth strategy, expansion gaps, and Digital Assets architecture.
+A mobile-friendly interactive command center for requisition R0025258. It combines initial-call preparation with primary-source analysis of Nasdaq's FY2025 and Q1 2026 segment economics, products, private markets, growth strategy, and Digital Assets architecture.
 
-## Privacy boundary
+## Publication boundary
 
-This public edition intentionally excludes personal job-search records, candidate evidence, interview answers, preparation notes, and application materials.
+The repository and GitHub Pages site are public. Ivan explicitly approved publishing the initial-call preparation and candidate positioning at this URL. Browser-local notes are not uploaded or synchronized. CV files, contact details, application materials, and private Hermes notes remain excluded.
 
 ## Sources
 
